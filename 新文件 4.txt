@@ -1,0 +1,21 @@
+POST https://cydap.sgcc.com.cn:1443/grm/necp/mapp/4a/personinfo/updateXtyhxx?yhdm=4&movetel=SEC1000104281739551a4a21b497fccc38a59d15a4923427f176aa34545dfae05dad2bb89033783740f7a37a1019e225312c3ea20772cbe08e43ff47db2b6e191714724aea396fd96dbb75f5adc135f13eb2b62b746ea52318a7c401bdf905de7f9a686fe176d0913d77e3c72460&email=SEC1000104ba024b471d006ca514a00fbaa70c3b74cac10d79a1d0c20ffedee6d8a32778fa5c40bfc0c8e14cdb12cca64af62e2396b15d4f1e466f5319e456304fa4d652f5a27865dc69a92bf9df363c08a22b4505999b05f2ab28be506fee0abf7a054764d73d3b941b31f104f12494&checkCode=b4258f22fd03b7117f18d1c8ed2b31e9f3bb6ee1dff81dd1deb250ae871692a8 HTTP/1.1
+Host: cydap.sgcc.com.cn:1443
+Connection: keep-alive
+Content-Length: 2
+sec-ch-ua-platform: "Windows"
+V4: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+Accept: application/json;charset=UTF-8
+sec-ch-ua: "Google Chrome";v="137", "Chromium";v="137", "Not/A)Brand";v="24"
+Content-Type: application/json
+sec-ch-ua-mobile: ?0
+Origin: https://cydap.sgcc.com.cn:1443
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://cydap.sgcc.com.cn:1443/grm/dap/mapp/dccweb/main/index.html
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: ecp_locale=zh-cn; _sk=gw; _theme_mh=gw; leaderMode=false; SYS_SECS=2; customStyleFlag=sg; orgCode=9999; tid=-1; aid=-1; usr=F6F4AC828D8A257547323029F48198E2; ecpDataContext.tokenId=57414eaffc9a4a60a052f04c7239d61f; znmh_nav=znmh; reloginId=454ec294c9af42c5951f9f9835c2bd98; need-check-context=false; GET_BGIMG=; SESSION=4502deed-e46e-4913-9177-b1cf0052f453
+
+{}
